@@ -1,0 +1,17 @@
+<http://www.csitpark.com/Siddharaj> <http://www.csitpark.com/MobileNo> "9998421745" .
+<http://www.csitpark.com/Siddharaj> <http://www.csitpark.com/hasPanCardNo> "AAAABBBBDDDD" .
+<http://www.csitpark.com/Siddharaj> <http://www.csitpark.com/isDevelop> <http://www.csitpark.com/Software> .
+<http://www.csitpark.com/Siddharaj> <http://www.csitpark.com/isWorksAt> <http://www.csitpark.com/Gandhinagar> .
+<http://www.csitpark.com/Siddharaj> <http://www.csitpark.com/isownerof> <http://www.csitpark.com/CSITPARK> .
+<http://www.csitpark.com/Siddharaj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Person> .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/PhoneNo> "65720077" .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/hasPanCardNo> "CCCCSSSSIII" .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/isIn> <http://www.csitpark.com/Kadi> .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/isIn> <http://www.csitpark.com/Gandhinagar> .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/hasBranch> "2" .
+<http://www.csitpark.com/CSITPARK> <http://www.csitpark.com/hasEmployee> "15" .
+<http://www.csitpark.com/CSITPARK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Company> .
+<http://www.csitpark.com/Gandhinagar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#City> .
+<http://www.csitpark.com/Software> <http://www.csitpark.com/isCreatedIn> "VB.NET,PHP,JAVA,ANDROID. Mostly we work in PHP and VB.NET. As PHP is used for Web Development and VB.NET is used in Software Development" .
+<http://www.csitpark.com/Software> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Program> .
+<http://www.csitpark.com/Kadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#City> .
